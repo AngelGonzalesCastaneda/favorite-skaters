@@ -1,4 +1,10 @@
-favorite-skaters
-================
 
-my first website; uses Bootstrap 3 framework
+
+Possible Website Names
+====
+
+- favoriteskaters.com
+- bestskaters.com
+- awesomeskaters.com
+- goodskaters.com
+- AngelGonzalesCastaneda.com
